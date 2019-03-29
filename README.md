@@ -1,7 +1,7 @@
 
 #MUSICAL FOUNTAIN  
 
-![Image 1](C:\Users\KSHITIJ\Downloads\mars\mars\Images and Videos\Images\IMG_2318.jpg)
+![Image 1](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2318.JPG)
 ![Image 2](C:\Users\KSHITIJ\Downloads\mars\mars\Images and Videos\Images\IMG_2327.jpg)  
 
 ##ABSTRACT
