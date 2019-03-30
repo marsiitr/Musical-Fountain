@@ -1,7 +1,7 @@
 
 # MUSICAL FOUNTAIN  
 
-![Image 1](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2318.JPG)
+![Image 1](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2390.JPG)
 ![Image 2](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2327.JPG)  
 
 ## ABSTRACT
