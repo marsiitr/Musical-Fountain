@@ -1,7 +1,7 @@
 
 # MUSICAL FOUNTAIN  
 
-![Image 1](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2390.JPG)
+![Image 1](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2330.JPG)
 ![Image 2](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2327.JPG) 
 ![Image 3](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2313.JPG)
 
@@ -50,7 +50,7 @@ We can improve the quality and way of insulation which was provided to the fount
 
 1. Prachi Agarwal
 2. Vandan Gajjar
-
+![Image 4](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2390.JPG)
 ## REFERENCESs  
 
 1. https://ieeexplore.ieee.org/abstract/document/5230466
