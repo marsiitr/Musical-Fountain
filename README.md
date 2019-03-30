@@ -5,7 +5,7 @@
 +
 +![Image 3](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2313.JPG)
 +
-+## Abstract
+## Abstract
 +
 +The idea behind the project is that we use the concept of nodes in sound, and use it to control the movement of servos and the brightness of LEDs.  
 +
@@ -13,12 +13,12 @@
 +
 +The nozzles were 3d printed to reduce the mannufacturing cost. For insulation, we mostly used locally available epoxy glue and araldite. 
 
-+## Motivation
+## Motivation
 +
 +From the outside , musical fountain seemed to be a trivial project. but, when we got into its technical aspects, it wasn't so. Everytime we came up with a design, we had to brainstorm it and eventually a new design came into picture.   
 +This challenge of coming up with an efficient model is what kept us motivated.
 +
-+## Electronic Aspect  
+## Electronic Aspect  
 +
 +An app named Audacity was used to export the data points corresponding to a song(the value of the data points signifies the voltage values of the sound signals).The extracted data was analyzed and plotted to see the maximum and minimum value of the data points.In the arduino code, the stepper was given a rotation after every 10 iterations and servo were rotated as per a fixed pattern of iterations.  
 +The Leds were made to dance as per the data points value by giving the range of value between the maximum and minimum values calculated before.For every specific command, functions were made and were called when required in the void loop.Also one more stepper motor was attached to a flow regulator to regulate the flow of water coming to the central nozzle.  
@@ -31,12 +31,12 @@
 +6 hollow tubes were attached on the lazy susan, at the end of each was a servo motor attached which would eventually control the movement of the nozzle.  
 +A secondary base was manufactured to setup the stepper motor which was used to rotate the armature. the secodary base also housed another stepper motor which would be controlling the valve. 3 pumps were used to pump water in the fountain.  
 +
-+## Application  
+## Application  
 +
 +It has been observed that when soothing music is played near crops, there yeild increases. So this technique will be very helpful in drip irrigation. 
 +Also, musical fountain increases the aesthetic value of the place where it is established.  
 +
-+## Limitaion  
+## Limitaion  
 +
 +Our fountain's performance was greatly hindered by the pumps we used. Low quality piping and insulation can also be a contributing factor for bad performance.  
 +## Future Improvements  
