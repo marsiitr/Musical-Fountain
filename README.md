@@ -23,8 +23,9 @@
 +An app named Audacity was used to export the data points corresponding to a song(the value of the data points signifies the voltage values of the sound signals).The extracted data was analyzed and plotted to see the maximum and minimum value of the data points.In the arduino code, the stepper was given a rotation after every 10 iterations and servo were rotated as per a fixed pattern of iterations.  
 +The Leds were made to dance as per the data points value by giving the range of value between the maximum and minimum values calculated before.For every specific command, functions were made and were called when required in the void loop.Also one more stepper motor was attached to a flow regulator to regulate the flow of water coming to the central nozzle.  
 +Dataset was made for 5 songs.As the space available in the arduino is limited , we used sd card to store the data points value and read the corresponding value in the code directly from the sd card.Most of the electronic parts like motors and wires were in the water, hence all the components were completely sealed and water proofed so that no damage is caused by water.
-+
-+## Mechanical Aspect  
++  
+
+## Mechanical Aspect  
 +![Image 6]( https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/Screenshot%20(18).png)
 +The revolute of the model was based on The Lazy Susan armature. we 3d printed the nozzles and 2 gears with 50 and 25 teeth respectively.  
 +6 hollow tubes were attached on the lazy susan, at the end of each was a servo motor attached which would eventually control the movement of the nozzle.  
