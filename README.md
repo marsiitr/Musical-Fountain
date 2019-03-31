@@ -44,6 +44,7 @@ This challenge of coming up with an efficient model is what kept us motivated.
 11. Aluminium Rod - ₹ 280
 12. Central Valve - ₹ 300
 13. Pump - ₹ 2000
+14. Piping - ₹ 700
 
 ## Application  
 
