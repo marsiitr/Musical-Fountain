@@ -35,7 +35,7 @@ This challenge of coming up with an efficient model is what kept us motivated.
 2. Motor Drive - ₹ 160*2
 3. Servo Motor - ₹ 325*6
 4. Stepper - ₹ 690*2
-5. Lazy Susan - ₹ 600
+5. Lazy Susan - ₹ 1250
 6. Tub - ₹ 670
 7. IC, BreadBoard, etc - ₹ 300
 8. Wiring - ₹ 1000
