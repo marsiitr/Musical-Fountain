@@ -43,6 +43,7 @@ This challenge of coming up with an efficient model is what kept us motivated.
 10. MSeal, Araldite- ₹ 300
 11. Aluminium Rod - ₹ 280
 12. Central Valve - ₹ 300
+13. Pump - ₹ 2000
 
 ## Application  
 
