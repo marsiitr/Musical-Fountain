@@ -24,7 +24,7 @@ This challenge of coming up with an efficient model is what kept us motivated.
   
 
 ## Mechanical Aspect  
-![Image 6](https://github.com/kshitij2116/Musical-Fountain/blob/master/Mechanical%20Design/Solidworks_model_design2.png)
+![Image 6]( https://github.com/kshitij2116/Musical-Fountain/blob/master/Mechanical%20Design/Solidworks_model_design2.png)
 1. The revolute of the model was based on The Lazy Susan armature. we 3d printed the nozzles and 2 gears with 50 and 25 teeth respectively.  
 2. 6 hollow tubes were attached on the lazy susan, at the end of each was a servo motor attached which would eventually control the movement of the nozzle.  
 3. A secondary base was manufactured to setup the stepper motor which was used to rotate the armature. the secodary base also housed another stepper motor which would be controlling the valve. 3 pumps were used to pump water in the fountain.  
