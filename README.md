@@ -55,7 +55,7 @@ We can improve the quality and way of insulation which was provided to the fount
 
 1. Prachi Agarwal
 2. Vandan Gajjar
-![Image 4](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2390.JPG)
+![Image 4](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/Project%20with%20teammates.JPG)
 ## References  
 
 1. https://ieeexplore.ieee.org/abstract/document/5230466
