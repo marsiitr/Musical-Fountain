@@ -32,21 +32,21 @@ This challenge of coming up with an efficient model is what kept us motivated.
 ## Cost Structure  
 |COMPONENTS | COST(₹)|
 |----|------|
-|Arduino Mega | ₹ 1300|
-|Motor Drive | ₹ 160*2|
-|Servo Motor | ₹ 325*6|
-|Stepper | ₹ 690*2|
-|Lazy Susan | ₹ 1250|
-|Tub | ₹ 670|
-|IC, BreadBoard, etc | ₹ 300|
-|Wiring | ₹ 1000|
-|LEDs | ₹ 350|
-|MSeal, Araldite | ₹ 300|
-|Aluminium Rod | ₹ 280|
-|Central Valve | ₹ 300|
-|Pump | ₹ 2000|
-|Piping | ₹ 700 |
-|Total Estimated Cost | ₹ 11,500|
+|Arduino Mega |  1300|
+|Motor Drive |  160*2|
+|Servo Motor |  325*6|
+|Stepper | 690*2|
+|Lazy Susan | 1250|
+|Tub | 670|
+|IC, BreadBoard, etc | 300|
+|Wiring | 1000|
+|LEDs | 350|
+|M Seal, Araldite | 300|
+|Aluminium Rod | 280|
+|Central Valve | 300|
+|Pump | 2000|
+|Piping | 700 |
+|Total Estimated Cost | 11,500|
 
 
 ## Application  
