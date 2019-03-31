@@ -30,23 +30,23 @@ This challenge of coming up with an efficient model is what kept us motivated.
 3. A secondary base was manufactured to setup the stepper motor which was used to rotate the armature. the secodary base also housed another stepper motor which would be controlling the valve. 3 pumps were used to pump water in the fountain.  
 
 ## Cost Structure  
-
-1. Arduino Mega - ₹ 1300
-2. Motor Drive - ₹ 160*2
-3. Servo Motor - ₹ 325*6
-4. Stepper - ₹ 690*2
-5. Lazy Susan - ₹ 1250
-6. Tub - ₹ 670
-7. IC, BreadBoard, etc - ₹ 300
-8. Wiring - ₹ 1000
-9. LEDs - ₹ 350
-10. MSeal, Araldite- ₹ 300
-11. Aluminium Rod - ₹ 280
-12. Central Valve - ₹ 300
-13. Pump - ₹ 2000
-14. Piping - ₹ 700  
-
-Total Estimated Cost - ₹ 11,500
+|COMPONENTS | COST(₹)|
+|----|------|
+|Arduino Mega | ₹ 1300|
+|Motor Drive | ₹ 160*2|
+|Servo Motor | ₹ 325*6|
+|Stepper | ₹ 690*2|
+|Lazy Susan | ₹ 1250|
+|Tub | ₹ 670|
+|IC, BreadBoard, etc | ₹ 300|
+|Wiring | ₹ 1000|
+|LEDs | ₹ 350|
+|MSeal, Araldite | ₹ 300|
+|Aluminium Rod | ₹ 280|
+|Central Valve | ₹ 300|
+|Pump | ₹ 2000|
+|Piping | ₹ 700 |
+|Total Estimated Cost | ₹ 11,500|
 
 
 ## Application  
