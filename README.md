@@ -29,10 +29,26 @@ This challenge of coming up with an efficient model is what kept us motivated.
 2. 6 hollow tubes were attached on the lazy susan, at the end of each was a servo motor attached which would eventually control the movement of the nozzle.  
 3. A secondary base was manufactured to setup the stepper motor which was used to rotate the armature. the secodary base also housed another stepper motor which would be controlling the valve. 3 pumps were used to pump water in the fountain.  
 
+## Cost Structure  
+
+1. Arduino Mega - ₹ 1300
+2. Motor Drive - ₹ 160*2
+3. Servo Motor - ₹ 325*6
+4. Stepper - ₹ 690*2
+5. Lazy Susan - ₹ 600
+6. Tub - ₹ 670
+7. IC, BreadBoard, etc - ₹ 300
+8. Wiring - ₹ 1000
+9. LEDs - ₹ 350
+10. MSeal, Araldite- ₹ 300
+11. Aluminium Rod - ₹ 280
+12. Central Valve - ₹ 300
+
 ## Application  
 
 It has been observed that when soothing music is played near crops, there yeild increases. So this technique will be very helpful in drip irrigation. 
 Also, musical fountain increases the aesthetic value of the place where it is established.  
+
 
 ## Limitaion  
 
