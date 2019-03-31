@@ -1,6 +1,6 @@
 
  # Musical-Fountain
--Srishti 2019
+
  ![Image 3](https://github.com/kshitij2116/Musical-Fountain/blob/master/Images%20and%20Videos/Images/IMG_2313.JPG)
 
 ## Abstract
