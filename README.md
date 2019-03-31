@@ -44,7 +44,10 @@ This challenge of coming up with an efficient model is what kept us motivated.
 11. Aluminium Rod - ₹ 280
 12. Central Valve - ₹ 300
 13. Pump - ₹ 2000
-14. Piping - ₹ 700
+14. Piping - ₹ 700  
+
+Total Estimated Cost - ₹ 11,500
+
 
 ## Application  
 
@@ -52,7 +55,7 @@ It has been observed that when soothing music is played near crops, there yeild 
 Also, musical fountain increases the aesthetic value of the place where it is established.  
 
 
-## Limitaion  
+## Limitation  
 
 Our fountain's performance was greatly hindered by the pumps we used. Low quality piping and insulation can also be a contributing factor for bad performance.  
 ## Future Improvements  
